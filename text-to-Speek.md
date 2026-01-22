@@ -1,11 +1,11 @@
 
 ## Python Text-to-Speech with `pyttsx3`
 
-## 📌 Task
+##  Task
 
 Python program that uses the **`pyttsx3`** library to **convert text into speech**.
 
-## 🖥️ Code
+##  Code
 
 ```python
 import pyttsx3
@@ -14,13 +14,13 @@ import pyttsx3
 pyttsx3.speak("Hii, Navjot how are you")
 ```
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **`pyttsx3`** is a **Python Text-to-Speech (TTS) conversion library**.
 2. It works **offline** and supports **multiple speech engines**.
 3. The `speak()` method is used to **read aloud the provided text**.
 
-## 🚀 Steps to Run
+##  Steps to Run
 
 1. Install the library:
 
@@ -36,7 +36,7 @@ pyttsx3.speak("Hii, Navjot how are you")
    python speech.py
    ```
 
-## ✅ Output
+##  Output
 
 When you run the program, your computer will **speak aloud**:
 
