@@ -4,7 +4,7 @@ This is a simple **Pygame project** where you can move a green square around the
 
 ---
 
-## 🚀 Features
+##  Features
 - A window of size **800x600** pixels.
 - A **green square (60x60)** drawn on a black background.
 - Move the square using:
@@ -45,7 +45,7 @@ pip install pygame
 
 ---
 
-## 📝 Code Overview
+##  Code Overview
 
 * `pygame.init()` → Initializes Pygame.
 * `pygame.display.set_mode((800, 600))` → Creates a game window.
